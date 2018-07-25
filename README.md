@@ -1,6 +1,8 @@
 Personal favorites. Selected NLP publications on
 * Embedding
-* Conversation
 * Tagging
-* DL4NLP
+* Conversation
+* Summerization
+* Q/Machine Reading
+* DL in NLP
 * Public Dataset
