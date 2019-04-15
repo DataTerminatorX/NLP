@@ -3,6 +3,8 @@ Personal favorites. Selected NLP publications on
 * Tagging
 * Conversation
 * Summerization
-* QA/Machine Reading
+* Question Answering
+* Machine Reading
+* Knowledge Graph
 * DL in NLP
 * Public Dataset
